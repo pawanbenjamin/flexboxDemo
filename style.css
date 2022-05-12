@@ -3,7 +3,7 @@
 @media (min-width: 550px) {
   .row {
     display: flex;
-    flex-flow: row-wrap;
+    flex-flow: row wrap;
     justify-content: space-between;
     gap: 4%;
   }
